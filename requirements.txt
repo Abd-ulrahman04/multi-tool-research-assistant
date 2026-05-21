@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-community
+wikipedia
+pandas
+requests
+python-dotenv
+numexpr
+colorama
+streamlit
