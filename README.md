@@ -138,12 +138,3 @@ Thought: I have successfully converted the GDP of Japan from USD to EUR. The res
 Final Answer: The GDP of Japan is approximately 3.86 trillion EUR (or exactly 3,864,000,000,000.00 EUR).
 > Finished chain.
 ```
-
----
-
-## Screenshots Placeholder
-Here are placeholders for future screenshots representing terminal outputs and file logs:
-
-* **CLI Main Menu**: `[Insert Main Menu screenshot here]`
-* **ReAct Reasoning Chain**: `[Insert Verbose Reasoning Trace screenshot here]`
-* **Interactive CLI loop**: `[Insert CLI prompt screenshot here]`
